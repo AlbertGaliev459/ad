@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\WpfAppISRPO\bin\Debug\WpfAppISRPO.exe.config
+C:\Users\Asus\source\repos\WpfAppISRPO\bin\Debug\WpfAppISRPO.exe
+C:\Users\Asus\source\repos\WpfAppISRPO\bin\Debug\WpfAppISRPO.pdb
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\InfoWindow.g.cs
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO_MarkupCompile.cache
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO_MarkupCompile.lref
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\InfoWindow.baml
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO.g.resources
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO.Properties.Resources.resources
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO.exe
+C:\Users\Asus\source\repos\WpfAppISRPO\obj\Debug\WpfAppISRPO.pdb

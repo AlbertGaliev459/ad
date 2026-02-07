@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfAppISRPO.MainWindow"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Главное окно" Height="300" Width="400">
+    <Grid>
+        <Button Content="Показать информацию" 
+                Width="150" Height="40" 
+                Click="Button_Click"
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"/>
+    </Grid>
+</Window>
